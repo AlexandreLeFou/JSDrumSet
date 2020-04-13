@@ -7,4 +7,4 @@ https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulat
 
 
 You can check out my project here:
-https://alexandrelefou.github.io/JsDrumSet/
+https://alexandrosgazis.github.io/JsDrumSet/
